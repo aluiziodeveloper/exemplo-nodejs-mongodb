@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://aluiziodeveloper.com.br/">
-    <img alt="Aluizio Developer" src="./assets/img/logo.png" height="70" />
+    <img alt="Aluizio Developer" src="https://aluiziodeveloper.com.br/assets/img/icon.png" width="200" />
   </a>
 </p>
 <h2 align="center">
@@ -75,6 +75,13 @@ Após essa instalação, a aplicação já está disponível para uso, através 
 npm start
 ```
 
-### Contato
 
-Conheça o [Blog Aluizio Developer](https://aluiziodeveloper.com.br). Lá você encontrará bastante informação sobre GNU/Linux, desenvolvimento de aplicações e tecnologia em geral.
+## Redes Sociais
+
+[Site Aluizio Developer](https://aluiziodeveloper.com.br)
+
+[YouTube](https://www.youtube.com/jorgealuizio)
+
+[Servidor no Discord](https://discord.gg/3J87BMz5fD)
+
+[LinkedIn](https://www.linkedin.com/in/jorgealuizio/)
